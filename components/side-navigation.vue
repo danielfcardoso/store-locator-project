@@ -48,7 +48,7 @@
 export default {
   name: 'SideNavigation',
   data: () => ({
-    drawer: false,
+    drawer: true,
     items: [
       { title: 'Dashboard', icon: 'mdi-view-dashboard', to: '/' },
       { title: 'Inbox', icon: 'mdi-email', to: '/inbox' },
