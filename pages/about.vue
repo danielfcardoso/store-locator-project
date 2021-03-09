@@ -1,14 +1,13 @@
 <template>
-  <div>
-    <h1>Index</h1>
-  </div>
+  <h1>About</h1>
 </template>
 
 <script>
-
 export default {
-  data: () => ({
-
-  })
+  name: 'About'
 }
 </script>
+
+<style scoped>
+
+</style>

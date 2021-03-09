@@ -1,14 +1,13 @@
 <template>
-  <div>
-    <h1>Index</h1>
-  </div>
+
 </template>
 
 <script>
-
 export default {
-  data: () => ({
-
-  })
+  name: 'inbox'
 }
 </script>
+
+<style scoped>
+
+</style>
